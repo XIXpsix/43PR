@@ -10,6 +10,9 @@ namespace _43PR
     {
         static void Main(string[] args)
         {
+             Notebook notebook = new Notebook("Lenovo", "80RJ", 300);
+             notebook.Output();
+             Console.ReadKey();
         }
     }
 }

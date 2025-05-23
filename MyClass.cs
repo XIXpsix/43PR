@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +8,6 @@ namespace _43PR
 {
     class MyClass
     {
-        public string change;
+        public string change;// класс открыт строком change
     }
 }
